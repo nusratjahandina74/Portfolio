@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: "Petroil – Fuel Management Platform",
-    thumbnail: "/src/assets/petroil.jpeg",
+    thumbnail: "/projects/petroil.jpeg",
     tech: ["React", "Node.js", "Express", "MongoDB"],
     features: [
       "End-to-end fuel ordering system",
@@ -12,13 +12,13 @@ export const projects = [
       "Designing a smooth order flow while keeping data consistent across users and admins.",
     solution:
       "Implemented structured APIs with role-based flows and optimized MongoDB queries for fast updates.",
-    live: "https://petroil-project.vercel.app/",
+    live: "https://petroil-tan.vercel.app/",
     github: "https://github.com/nusratjahandina74/Petroil_Project.git",
     featured: true,
   },
   {
     title: "PingLoop – Real-time Chat App",
-    thumbnail: "/src/assets/pingloop.jpeg",
+    thumbnail: "/projects/pingloop.jpeg",
     tech: ["React", "Node.js", "MongoDB", "Socket.io"],
     features: [
       "Instant real-time messaging",
@@ -35,7 +35,7 @@ export const projects = [
   },
   {
     title: "GBSKS – Organization Website",
-    thumbnail: "/src/assets/gbsks.jpeg",
+    thumbnail: "/projects/gbsks.jpeg",
     tech: ["React", "Tailwind", "Firebase"],
     features: [
       "Organization profile & projects showcase",
